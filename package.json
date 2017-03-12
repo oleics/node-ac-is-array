@@ -1,7 +1,7 @@
 {
   "name": "ac-is-array",
   "description": "Check if a value is an array.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Oliver Leics <oliver.leics@gmail.com>",
   "license": "MIT",
   "repository": "oleics/ac-is-array"
