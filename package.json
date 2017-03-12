@@ -3,5 +3,6 @@
   "description": "Check if a value is an array.",
   "version": "1.0.0",
   "author": "Oliver Leics <oliver.leics@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "oleics/ac-is-array"
 }
